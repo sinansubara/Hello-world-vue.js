@@ -12,16 +12,16 @@ import { Component, Vue } from 'vue-property-decorator';
 export default {
   name: 'Moja aplikacija',
   components: {
-    
+
   },
-  data(){
+  data() {
     return {
-      ime:'',
-      prezime:'',
+      ime: '',
+      prezime: '',
     };
   },
 
-}
+};
 </script>
 
 <style lang="scss">
